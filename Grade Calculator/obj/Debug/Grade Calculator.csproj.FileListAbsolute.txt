@@ -1,0 +1,18 @@
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator-1\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator-1\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\ADMIN\OneDrive\Desktop\Grade Calculator\Grade Calculator-1\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\yathu\Desktop\Changed_Grade Calculator\Grade Calculator-1 - Copy\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\yathu\Desktop\Changed_Grade Calculator\Grade Calculator-1 - Copy\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\yathu\Desktop\Changed_Grade Calculator\Grade Calculator-1 - Copy\Grade Calculator\obj\Debug\Grade Calculator.pdb
